@@ -1,0 +1,31 @@
+<quotes>
+    <quote author="Steve Jobs">Your work is going to fill a large part of your life, and the only way to be truly satisfied is to do what you believe is great work. And the only way to do great work is to love what you do.</quote>
+    <quote author="Steve Jobs">Innovation distinguishes between a leader and a follower.</quote>
+    <quote author="Steve Jobs">Your time is limited, don't waste it living someone else's life.</quote>
+    <quote author="Steve Jobs">Stay hungry, stay foolish.</quote>
+    <quote author="Steve Jobs">The people who are crazy enough to think they can change the world are the ones who do.</quote>
+
+    <quote author="Martin Luther King">I have a dream that one day this nation will rise up and live out the true meaning of its creed: "We hold these truths to be self-evident: that all men are created equal."</quote>
+    <quote author="Martin Luther King">Darkness cannot drive out darkness: only light can do that. Hate cannot drive out hate: only love can do that.</quote>
+    <quote author="Martin Luther King">Injustice anywhere is a threat to justice everywhere.</quote>
+    <quote author="Martin Luther King">Faith is taking the first step even when you don't see the whole staircase.</quote>
+    <quote author="Martin Luther King">Our lives begin to end the day we become silent about things that matter.</quote>
+
+    <quote author="Bill Gates">It's fine to celebrate success, but it is more important to heed the lessons of failure.</quote>
+    <quote author="Bill Gates">Your most unhappy customers are your greatest source of learning.</quote>
+    <quote author="Bill Gates">We always overestimate the change that will occur in the next two years and underestimate the change that will occur in the next ten. Don't let yourself be lulled into inaction.</quote>
+    <quote author="Bill Gates">I choose a lazy person to do a hard job. Because a lazy person will find an easy way to do it.</quote>
+    <quote author="Bill Gates">Success is a lousy teacher. It seduces smart people into thinking they can't lose.</quote>
+
+    <quote author="Albert Einstein">Imagination is more important than knowledge.</quote>
+    <quote author="Albert Einstein">The only source of knowledge is experience.</quote>
+    <quote author="Albert Einstein">The true sign of intelligence is not knowledge but imagination.</quote>
+    <quote author="Albert Einstein">Strive not to be a success, but rather to be of value.</quote>
+    <quote author="Albert Einstein">Life is like riding a bicycle. To keep your balance, you must keep moving.</quote>
+
+    <quote author="God Krishna">Do your work with the welfare of others always in mind.</quote>
+    <quote author="God Krishna">The soul is neither born, and nor does it ever die; nor having once existed, does it ever cease to exist.</quote>
+    <quote author="God Krishna">Set thy heart upon thy work, but never on its reward.</quote>
+    <quote author="God Krishna">There are three gates to this self-destructive hell: lust, anger, and greed.</quote>
+    <quote author="God Krishna">You have the right to perform your actions, but you are not entitled to the fruits of the actions.</quote>
+</quotes>
